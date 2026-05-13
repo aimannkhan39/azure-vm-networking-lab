@@ -21,8 +21,8 @@ This project demonstrates communication between two Microsoft Azure Virtual Mach
 
 ## Successful Ping Test
 
-![Ping Test](screenshots/ping-test-vm1.png)
-![Ping Test](screenshots/ping-test-vm2.png)
+![Ping Test](Screenshots/ping-test-vm1.png)
+![Ping Test](Screenshots/ping-test-vm2.png)
 ## Outcome
 
 Successfully established communication between two Azure Virtual Machines within the same Virtual Network.
